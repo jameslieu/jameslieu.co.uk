@@ -1,0 +1,31 @@
+.nav {
+  background-color: #4DB6AC;
+
+  .subtitle {
+    color: #fff;
+  }
+  
+  a.nav-item {
+    color: #A7FFEB;
+  }
+
+  a.nav-item:hover {
+    color: #fff;
+  }
+}
+
+.card-image {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.footer {
+  background-color: #00796B;
+
+  a {
+    color: #A7FFEB;
+  }
+
+  a:hover {
+    color: #fff;
+  }
+}
